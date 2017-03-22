@@ -1,1 +1,0 @@
-include pe_azure_demo::azure_vm_deploy
