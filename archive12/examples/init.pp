@@ -1,0 +1,1 @@
+include azure_vm_deploy
